@@ -1,17 +1,10 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-
-}
-
 body {
   background: linear-gradient(to right bottom, #5755bc, #6b8320);
 }
 
 #main {
   min-height: 100vh;
-  padding-bottom: 50px;
+  padding: 60px 0;
   display: flex;
   justify-content: center;
   align-items: flex-start;
